@@ -4,6 +4,7 @@
 
 development:
   adapter: postgresql
+  username: techdotmn
   database: rubymn_dev
   pool: 5
   timeout: 5000
